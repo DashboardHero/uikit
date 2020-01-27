@@ -1,6 +1,6 @@
 UIKit you know and love, easier to use with components. Demo here: http://getuikit-elements.surge.sh/
 
-###Quick example
+### Quick example
 
 Instead of writing this:
 ```

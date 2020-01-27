@@ -47,7 +47,7 @@
 	Pass down props as propName = { inMemoryObject or object.functionCall() }
 	<ComponentName propName = { propObject } />
 -->
-<a href="https://github.com"><Alert content= "See full source code for this page to see components in action"/></a>
+<a href="https://github.com/DashboardHero/uikit/blob/master/src/App.svelte"><Alert content= "See full source code for this page to see components in action"/></a>
 
 <PresentationComponent componentName="Accordion" gistId="81bc43c63221008bc2c3c6b90d5540c6">
 	<div><Accordion accordionElements = {accordionProps}/></div>

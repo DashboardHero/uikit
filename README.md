@@ -1,4 +1,4 @@
-UIKit you know and love, easier to use with components. Demo here: http://getuikit-elements.surge.sh/
+UIKit you know and love, easier to use with components. Svelte components are just plain HTML(with some templating), CSS and JS - things you know. Demo here: http://getuikit-elements.surge.sh/
 
 ### Quick example
 
@@ -41,7 +41,7 @@ You write just this:
 
 ### Get started
 
-To get started, clone this repository. App.svelte is the main entry point - delete everything between <main> tags and start building your web app.
+To get started, clone this repository. App.svelte is the main entry point - delete everything between <main> tags and start building your web app. More info on Svelte - https://svelte.dev/.
 
 ### Run
 
